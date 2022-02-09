@@ -1,0 +1,76 @@
+@font-face {
+	font-family: 'Bree Serif Light';
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/Bree-Serif-Light.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/Bree-Serif-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/Bree-Serif-Light.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/Bree-Serif-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/Bree-Serif-Light.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+	font-family: 'Bree Serif Regular';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/Bree-Serif-Regular.eot'); /* IE9 Compat Modes */
+	src: url('../fonts/Bree-Serif-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('../fonts/Bree-Serif-Regular.woff') format('woff'), /* Modern Browsers */
+		 url('../fonts/Bree-Serif-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+		 url('../fonts/Bree-Serif-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+	font-family: 'Bree Serif Italic';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/Bree-Serif-Italic.eot'); /* IE9 Compat Modes */
+	src: url('../fonts/Bree-Serif-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('../fonts/Bree-Serif-Italic.woff') format('woff'), /* Modern Browsers */
+		 url('../fonts/Bree-Serif-Italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+		 url('../fonts/Bree-Serif-Italic.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+	font-family: 'Bree Serif Bold';
+	font-style: normal;
+	font-weight: 700;
+	src: url('../fonts/Bree-Serif-Bold.eot'); /* IE9 Compat Modes */
+	src: url('../fonts/Bree-Serif-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('../fonts/Bree-Serif-Bold.woff') format('woff'), /* Modern Browsers */
+		 url('../fonts/Bree-Serif-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+		 url('../fonts/Bree-Serif-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+	font-family: 'Rustico';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/Rustico-Regular.eot'); /* IE9 Compat Modes */
+	src: url('../fonts/Rustico-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		 url('../fonts/Rustico-Regular.woff') format('woff'), /* Modern Browsers */
+		 url('../fonts/Rustico-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+		 url('../fonts/Rustico-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+.bree300 {
+	font-family: 'Bree Serif Light', Verdana, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+.bree400 {
+	font-family: 'Bree Serif Regular', Verdana, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+.bree400i {
+	font-family: 'Bree Serif Italic', Verdana, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+.bree700 {
+	font-family: 'Bree Serif Bold', Verdana, sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.rustico{
+	font-family: 'Rustico', sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
